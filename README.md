@@ -12,9 +12,13 @@ I am a Data Scientist and MongoDB/MySQL enthusiast. I love to learn new things a
 </h3> -->
 
 ## ⚡ Tech Stack
-These are some of the things I learned during my learning tour
+These are some of the things I learned during my learning tour.
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
+
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
