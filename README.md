@@ -26,3 +26,4 @@ I am a Data Scientist and MongoDB/MySQL enthusiast. I love to learn new things a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/ireneuszkorpusik) 
 or [mail](mailto:ireneusz.korpusik@gmail.com) .
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Irek-Korpusik/Irek-Korpusik)
