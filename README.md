@@ -6,13 +6,13 @@ I am a Data Scientist and MongoDB/MySQL enthusiast. I love to learn new things a
 ### 🔭 I’m currently working in PFH Technology Group, but open for new opportunities.
 
 <!--
-**Irek-Korpusik/Irek-Korpusik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--<h3 align="center">
 ![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
 </h3> -->
 
 ## ⚡ Tech Stack
+These are some of the things I learned during my learning tour
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
