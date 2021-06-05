@@ -5,14 +5,9 @@ I am a Data Scientist and MongoDB/MySQL enthusiast. I love to learn new things a
 ### 🇮🇪 I'm living in IRL
 ### 🔭 I’m currently working in PFH Technology Group, but open for new opportunities.
 
-<!--
 
-<!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
-</h3> -->
 
-## ⚡ Tech Stack
-Here are some of the things I have learned during my education journey.
+## Here are some of the things I have learned during my education journey.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)  
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
