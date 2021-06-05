@@ -3,7 +3,7 @@
 I am a Data Scientist and MongoDB/MySQL enthusiast. I love to learn new things and passionate about new technologies.
 
 ### 🇮🇪 I'm living in IRL
-### 🔭 I’m currently working in PFH Technology Group, but open for new opportunities.
+### 🔭 I’m currently working in PFH Technology Group.
 
 
 
