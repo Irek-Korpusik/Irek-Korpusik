@@ -27,4 +27,11 @@ I am a Data Scientist and MongoDB/MySQL enthusiast. I love to learn new things a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/ireneuszkorpusik) 
 or [mail](mailto:ireneusz.korpusik@gmail.com) .
 
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Irek-Korpusik&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irek-Korpusik&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Irek-Korpusik/Irek-Korpusik)
+
+
+
