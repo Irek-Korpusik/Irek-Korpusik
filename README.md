@@ -3,7 +3,7 @@
 I am a Data Scientist and MongoDB/MySQL enthusiast. I love to learn new things and passionate about new technologies.
 
 ### 🇮🇪 I'm living in IRL
-### 🔭 I’m currently looking for a job.
+### 🔭 I’m open for new opportunities in IT sector.
 
 
 
